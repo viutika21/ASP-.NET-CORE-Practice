@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "PwkrJO62ACq4puph8AVsZVEALXn+gyXRJaxVkKhTdLPszJ8HJkUct2M5YIUDobL2Z9tLpCxQg1rE/kDpSv40Rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KhadoosJunglu\\Desktop\\Uwindsor\\ProjectPractice\\LoginSolution\\LoginSolution.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KhadoosJunglu\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\KhadoosJunglu\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\KhadoosJunglu\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\KhadoosJunglu\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\KhadoosJunglu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\KhadoosJunglu\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
